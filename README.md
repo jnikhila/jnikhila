@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I've spent over five years of experience crafting user-centric documentation that bridges the gap between users and technology. My mission is to transform intricate technical jargon into digestible content that empowers users to harness the full potential of innovative solutions. Beyond documentation, I find joy in reading and writing fiction.
+I've over five years of experience crafting user-centric documentation that bridges the gap between users and technology. My mission is to transform intricate technical jargon into digestible content that empowers users to harness the full potential of innovative solutions. Beyond documentation, I find joy in reading and writing fiction.
 
 ## Skill Set
 
