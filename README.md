@@ -38,7 +38,7 @@ I specialize in creating:
 
 ## 🌐 **Online Presence**
 
-- Check out my [LinkedIn](https://www.linkedin.com/in/nikhila-jain) profile for more about my work.
+- Visit my [LinkedIn](https://www.linkedin.com/in/nikhila-jain) profile to learn more about my work.
 - Follow me on [Twitter](https://twitter.com/jain_nikhila) for tech updates and discussions.
 
 ## 📢 **Open to Collaboration**
