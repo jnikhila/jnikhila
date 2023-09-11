@@ -14,20 +14,6 @@ With a background in Java, JavaScript, and AWS, I bring a unique blend of skills
 ## 🌟 **Skills**
 
 - Technical Writing
-- Java
-- JavaScript
-- AWS Services (for example, EC2, S3, Cognito)
-- Markdown
-- Static Site Generators (Docusaurus, GitBook)
-- HTML and CSS
-- Docs-as-code
-- Open Source Documentation
-- Agile Development
-- Leadership and Mentoring
-
-## 🌟 **Skills**
-
-- Technical Writing
 - Java | JavaScript
 - AWS Services (e.g., EC2, S3, AWS Cognito)
 - Markdown | HTML/CSS
