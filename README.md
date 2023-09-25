@@ -35,16 +35,10 @@ I specialize in creating:
 - Concept Documentation
 - Open Source Documentation
 
-
-### 🌐 **Online Presence**
-
-- Visit my [LinkedIn](https://www.linkedin.com/in/nikhila-jain) profile to learn more about my work.
-- Follow me on [Twitter](https://twitter.com/jain_nikhila) for tech updates and discussions.
-
 ### 📢 **Open to Collaboration**
 
 I'm always open to collaborating on exciting projects, whether it's improving documentation, contributing to open source, or working on software development initiatives. Feel free to reach out if you have an interesting opportunity in mind!
 
 ### 💬 **Let's Connect**
 
-Let's connect and explore how we can make technical concepts more accessible and developer-friendly. Feel free to drop me a message or connect with me here on GitHub or via my other online profiles.
+Let's connect to make technical concepts more accessible and developer-friendly. Feel free to send me a message or connect with me on GitHub. You can also learn more about my work on my [LinkedIn](https://www.linkedin.com/in/nikhila-jain) profile and follow me on [Twitter](https://twitter.com/jain_nikhila) for tech updates and discussions.
