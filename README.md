@@ -41,4 +41,4 @@ I'm always open to collaborating on exciting projects, whether it's improving do
 
 ### 💬 **Let's Connect**
 
-Let's connect to make technical concepts more accessible and developer-friendly. Feel free to send me a message or connect with me on GitHub. You can also learn more about my work on my [LinkedIn](https://www.linkedin.com/in/nikhila-jain) profile and follow me on [Twitter](https://twitter.com/jain_nikhila) for tech updates and discussions.
+Let's connect to make technical concepts more accessible and developer-friendly. Feel free to send me a [message](https://www.nikhilajain.com/contact) or connect with me on GitHub. You can also learn more about my work on my [LinkedIn](https://www.linkedin.com/in/nikhila-jain) profile and follow me on [Twitter](https://twitter.com/jain_nikhila) for tech updates and discussions.
