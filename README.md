@@ -1,7 +1,7 @@
 
 👋 Hi! I'm Nikhila.
 
-📝 Lead Technical Writer | 💻 Software Developer | 🌐 AWS Enthusiast
+📝 Lead Technical Writer | 💻 Software Developer | 🌐 Docs-as-Code Enthusiast
 
 🌎 Based in Navi Mumbai, India.
 
