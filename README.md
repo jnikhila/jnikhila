@@ -16,12 +16,14 @@ With a background in Java, JavaScript, and AWS, I bring a unique blend of skills
 - Technical Writing
 - Java | JavaScript
 - AWS Services (e.g., EC2, S3, AWS Cognito)
+- Docker | Kubernetes
+- Static Site Generators (Docusaurus, GitBook, Gatsby)
 - Markdown | HTML/CSS
 - Docs-as-Code
 - Open Source Documentation
-- Agile Development
-- Agile Documentation
-- Diataxis Framework
+- Agile Development Practices
+- Agile Documentation Strategies
+- Diataxis Documentation Framework
 - Leadership & Mentoring
 
 ### 📚 **Writing Focus**
@@ -33,6 +35,7 @@ I specialize in creating:
 - Tutorials
 - How-to Guides
 - Concept Documentation
+- Reference Documentation
 - Open Source Documentation
 
 ### 📢 **Open to Collaboration**
