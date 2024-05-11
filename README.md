@@ -23,7 +23,6 @@ My technical expertise in Java, JavaScript, and AWS enables me to translate comp
 - Docker | Kubernetes
 - Agile Development Practices
 - Agile Documentation Strategies
-
 - Leadership & Mentoring
 
 ### 📚 **Writing Focus**
