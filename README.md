@@ -1,29 +1,29 @@
 
 👋 Hi! I'm Nikhila.
 
-🖋️ Lead Technical Writer | 📄💼 Docs-as-Code Expertise | ☁️ AWS Enthusiast | 💻 Software Developer 
+🖋️ Lead Technical Writer | 📄💼 Docs-as-Code Expertise | ☁️ Tech & AWS Enthusiast | 💻 Software Developer 
 
 🌎 Based in Navi Mumbai, India.
 
 ### 📃 **About Me**
 
-I'm a tech enthusiast with a passion for bridging the gap between code and documentation. I currently serve as a Lead Technical Writer at Appsmith, combining my technical writing expertise with hands-on software development experience.
+I am currently the Lead Technical Writer at Appsmith, where I spearhead documentation efforts. Driven by a passion for writing, I blend my technical writing skills with hands-on software development experience to bridge the gap between code and documentation.
 
-With a background in Java, JavaScript, and AWS, I bring a unique blend of skills to my technical writing projects. I enjoy simplifying complex technical concepts and creating developer-centric content that empowers users to make the most of technology.
+My technical expertise in Java, JavaScript, and AWS enables me to translate complex concepts into clear, understandable, and developer-centric documentation that supports developers in their work.
 
 ### 🌟 **Skills**
 
 - Technical Writing
+- Markdown | HTML/CSS
+- Diataxis Documentation Framework
+- Static Site Generators (Docusaurus, GitBook, Gatsby)
+- Docs-as-Code
 - Java | JavaScript
 - AWS Services (e.g., EC2, S3, AWS Cognito)
 - Docker | Kubernetes
-- Static Site Generators (Docusaurus, GitBook, Gatsby)
-- Markdown | HTML/CSS
-- Docs-as-Code
-- Open Source Documentation
 - Agile Development Practices
 - Agile Documentation Strategies
-- Diataxis Documentation Framework
+
 - Leadership & Mentoring
 
 ### 📚 **Writing Focus**
