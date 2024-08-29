@@ -9,10 +9,10 @@ Experienced Technical Writer with 5+ years specializing in developer-focused doc
 
 ### 🌟 **Skills**
 
-- Technical Writing: API Documentation, Tutorials, How-Tos, Conceptual and Reference Documentation
-- Tools: Markdown, Docusaurus, GitBook, React, VS Code, GitHub, Docker, Kubernetes
-- Technologies: Java, JavaScript, Node.js, React, Docker, Kubernetes, Amazon Web Services
-- Methodologies: Agile, Scrum, Docs-as-Code, Content Planning
+- **Technical Writing**: API Documentation, Tutorials, How-Tos, Conceptual and Reference Documentation
+- **Tools**: Markdown, Docusaurus, GitBook, React, VS Code, GitHub, Docker, Kubernetes
+- **Technologies**: Java, JavaScript, Node.js, React, Docker, Kubernetes, Amazon Web Services
+- **Methodologies**: Agile, Scrum, Docs-as-Code, Content Planning
 
 ### 📚 **Projects**
 
