@@ -14,7 +14,7 @@ Experienced Technical Writer with 5+ years specializing in developer-focused doc
 - Technologies: Java, JavaScript, Node.js, React, Docker, Kubernetes, Amazon Web Services
 - Methodologies: Agile, Scrum, Docs-as-Code, Content Planning
 
-### 📚 **Porjects**
+### 📚 **Projects**
 
 - **Vale Linter Setup**: Guide on installing and configuring Vale linter in VS Code for improved documentation quality.
 - **Documentation Migration**: Led migration from GitBook to Docusaurus, optimizing the documentation process.
