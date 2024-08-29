@@ -23,5 +23,5 @@ Experienced Technical Writer with 5+ years specializing in developer-focused doc
 ### 💬 **Let's Connect**
 
 - [Connect on LinkedIn](https://www.linkedin.com/in/nikhila-jain)
-- Follow me on [X](https://twitter.com/jain_nikhila)
+- [Follow me on X](https://twitter.com/jain_nikhila)
 - [Send me a message](https://www.nikhilajain.com/contact)
