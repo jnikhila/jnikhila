@@ -16,7 +16,7 @@ Experienced Technical Writer with 5+ years specializing in developer-focused doc
 
 ### 📚 **Projects**
 
-- **Vale Linter Setup**: Guide on installing and configuring Vale linter in VS Code for improved documentation quality.
+- **Docs-as-Code Set**: Established a comprehensive Docs-as-Code workflow, integrating Vale for linting, Vercel for deploy previews, and GitHub Actions for Algolia index updates, which streamlined content management and significantly improved documentation quality.
 - **Documentation Migration**: Led migration from GitBook to Docusaurus, optimizing the documentation process.
 - **Content Overhaul**: Implemented major updates to information architecture and content structure, enhancing navigation and accessibility.
 
