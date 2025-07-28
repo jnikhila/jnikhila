@@ -31,7 +31,7 @@ Here are some of my notable projects:
 
 - **[Learn Docusaurus](https://github.com/jnikhila/learn-docusaurus)**: Compiled a collection of Docusaurus projects showcasing diverse use cases and features, ideal for learners and tech writers seeking practical examples and insights into Docusaurus. [View Repository](https://github.com/jnikhila/learn-docusaurus)
 
-- **[Voucher API]([https://github.com/jnikhila/voucher-api](https://github.com/jnikhila/voucher-api-docs))**: Designed and documented a RESTful Voucher API enabling businesses to manage discount codes and promotions seamlessly. Includes comprehensive API specs, usage guides, and integration examples. [View Repository]([https://github.com/jnikhila/voucher-api](https://github.com/jnikhila/voucher-api-docs))
+- **[Voucher API](https://github.com/jnikhila/voucher-api-docs)**: Designed and documented a RESTful Voucher API enabling businesses to manage discount codes and promotions seamlessly. Includes comprehensive API specs, usage guides, and integration examples. [View Repository](https://github.com/jnikhila/voucher-api-docs))
 
 ---
 
