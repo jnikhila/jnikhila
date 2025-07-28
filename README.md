@@ -25,7 +25,7 @@ Here are some of my notable projects:
 
 - **[Appsmith Documentation](https://github.com/appsmithorg/appsmith-docs)**: Contributed to the Appsmith documentation, focusing on improving clarity and user experience. [View Repository](https://github.com/appsmithorg/appsmith-docs)
 
-- **[Open PaaS Platform Docs](https://github.com/open-paas-platform-docs/open-paas-platform-docs)**: Developed comprehensive documentation for the Open PaaS Platform, showcasing its capabilities to support the development, deployment, and integration of custom applications with external systems. [View Repository](https://github.com/open-paas-platform-docs/open-paas-platform-docs)
+- **[Open PaaS Platform Docs](https://github.com/jnikhila/open-paas-platform-docs)**: Developed comprehensive documentation for the Open PaaS Platform, showcasing its capabilities to support the development, deployment, and integration of custom applications with external systems. [View Repository](https://github.com/jnikhila/open-paas-platform-docs)
 
 - **[Docusaurus Multiple Sidebars](https://github.com/jnikhila/docusaurus-multiple-sidebars)**: Created a repository demonstrating how to implement multiple sidebars in Docusaurus, enhancing navigation in large documentation sites. [View Repository](https://github.com/jnikhila/docusaurus-multiple-sidebars)
 
