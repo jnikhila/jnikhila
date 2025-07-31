@@ -68,5 +68,4 @@ My current focus: **AI-native documentation systems** that scale with engineerin
 
 ---
 
-Thanks for stopping by! I'm always exploring ways to make docs more intelligent, maintainable, and developer-first.  
-Feel free to fork, reuse, or reach out if you're building something similar.
+Thanks for stopping by! I'm always exploring ways to make docs more intelligent, maintainable, and developer-first. Feel free to fork, reuse, or reach out if you're building something similar.
