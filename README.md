@@ -6,7 +6,7 @@
 
 ### 📃 About me
 
-I'm a senior technical writer with a developer's mindset—bringing **19+ years of experience** across software engineering, developer education, and documentation strategy.
+I'm a staff technical writer with a developer's mindset—bringing **19+ years of experience** across software engineering, developer education, and documentation strategy.
 
 My current focus: **AI-native documentation systems** that scale with engineering teams and support emerging workflows like **semantic search, RAG, and LLM fine-tuning**. I build docs like software—modular, maintainable, and automation-friendly.
 
