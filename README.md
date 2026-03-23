@@ -40,5 +40,5 @@ I build documentation that is human-readable today and AI-ready for tomorrow—s
 ### Connect
 - [LinkedIn](https://www.linkedin.com/in/nikhila-jain)  
 - [Twitter/X](https://twitter.com/jain_nikhila)  
-- [Website + Blog](https://www.nikhilajain.com)  
+- [Website](https://nikhilajain.com) + [Blog](https://nikhilajain.com/blog/)
 - [All Repos](https://github.com/jnikhila)
