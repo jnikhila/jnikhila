@@ -5,8 +5,9 @@
 ---
 
 ### About me
-I’m a staff technical writer with a developer’s mindset and **19+ years of experience** in software engineering, developer education, and documentation strategy.  
-My current focus: building **AI-ready documentation systems** that scale with engineering teams and support workflows like **semantic search, RAG, and LLM fine-tuning**.  
+I bring 19+ years of experience across software engineering, developer education, and documentation strategy—working at the intersection of systems, clarity, and scale.
+
+My current focus is building AI-ready documentation systems that integrate with products and support workflows like semantic search, RAG, and LLM fine-tuning.
 
 I build documentation that is human-readable today and AI-ready for tomorrow—structured, consistent, and machine-ingestible.
 
