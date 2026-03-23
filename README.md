@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nikhila Jain
 
-🖋️ Staff Technical Writer • 🧠 AI-Native Docs Architect • ⚡ Docs-as-Code Advocate  
+🖋️ Principal Technical Writer • 🧠  Documentation Architect & AI Docs Builder • ⚡ Docs-as-Code Advocate 
 
 ---
 
